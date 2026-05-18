@@ -4,4 +4,4 @@ Scripts trên giúp bạn kích hoạt gần như tất cả chức năng của 
 
 (Yêu cầu phải có Shadowrocket, chỉ hỗ trợ trên iPhone)
 
-**Không khuyến khích dùng free, nếu bạn có tiền thì nên ủng hộ nhà phát hành bằng cách mua trực tiếp tại ứng dụng**
+**Không khuyến khích dùng free, nếu bạn có tiền thì nên ủng hộ nhà phát hành bằng cách mua trực tiếp tại ứng dụng.**
