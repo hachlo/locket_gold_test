@@ -13,7 +13,10 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 - Tùy biến biểu tượng ứng dụng (Logo app)
 - Hiện số bạn bè xem Locket của mình
 - Tùy biến Widget
-- ~~Chức năng AI (Sự kiện)~~ **(Không hoạt động)**
+
+**Những chức năng không còn hoạt động:**
+- Chức năng AI (Sự kiện)
+- Huy hiệu Locket Gold _(đã bị Locket fix)_
 
 (Yêu cầu phải có Shadowrocket, chỉ hỗ trợ trên iPhone)
 
