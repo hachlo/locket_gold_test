@@ -1,4 +1,4 @@
-<span style="font-size: 200%">**Locket Gold 💛**</span>
+<span style="font-size: 3em">**Locket Gold 💛**</span>
 
 Scripts trên giúp bạn kích hoạt gần như tất cả chức năng của Locket bình thường.
 
