@@ -6,6 +6,9 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 - Quay video (5s)
 - ~~Huy hiệu Locket Gold~~
 - Tùy chỉnh Camera theme
+- Gửi nội dung Locket dài hơn
+- Tải ảnh từ thư viện
+- Không giới hạn số bạn bè
 - Tùy biến biểu tượng ứng dụng (Logo app)
 - Hiện số bạn bè xem Locket của mình
 - Tùy biến Widget
