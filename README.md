@@ -1,6 +1,15 @@
 <span style="font-size: 3em">**Locket Gold 💛**</span>
 
-Scripts trên giúp bạn kích hoạt gần như tất cả chức năng của Locket bình thường.
+Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp bạn kích hoạt gần như tất cả chức năng của Locket, tận hưởng đầy đủ chức năng
+
+**Những chức năng hoạt động**
+- Quay video (5s)
+- ~~Huy hiệu Locket Gold~~
+- Tùy chỉnh Camera theme
+- Tùy biến biểu tượng ứng dụng (Logo app)
+- Hiện số bạn bè xem Locket của mình
+- Tùy biến Widget
+- ~~Chức năng AI (Sự kiện)~~ **(Không hoạt động)**
 
 (Yêu cầu phải có Shadowrocket, chỉ hỗ trợ trên iPhone)
 
