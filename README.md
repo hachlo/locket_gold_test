@@ -1,4 +1,4 @@
-<span style="font-size: 3em">**Locket Gold 💛**</span>
+<h1><span style="font-size: 3em">**Locket Gold 💛**</span></h1>
 
 Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp bạn kích hoạt gần như tất cả chức năng của Locket, tận hưởng đầy đủ chức năng
 
