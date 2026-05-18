@@ -3,12 +3,13 @@
 Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp bạn kích hoạt gần như tất cả chức năng của Locket, tận hưởng đầy đủ chức năng
 
 **Những chức năng hoạt động**
-- Quay video (5s)
+- 🚫Không quảng cáo
+- 🎥Quay video (5s)
 - ~~Huy hiệu Locket Gold~~
 - Tùy chỉnh Camera theme
-- Gửi nội dung Locket dài hơn
+- 🗨️Gửi nội dung Locket dài hơn
 - Tải ảnh từ thư viện
-- Không giới hạn số bạn bè
+- ❤️‍🔥Không giới hạn số bạn bè
 - Tùy biến biểu tượng ứng dụng (Logo app)
 - Hiện số bạn bè xem Locket của mình
 - Tùy biến Widget
