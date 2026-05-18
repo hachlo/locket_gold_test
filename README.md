@@ -1,4 +1,4 @@
-**#Locket Gold 💛**
+**Locket Gold 💛**
 
 Scripts trên giúp bạn kích hoạt gần như tất cả chức năng của Locket bình thường.
 
