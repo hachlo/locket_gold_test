@@ -2,7 +2,7 @@
 
 Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp bạn kích hoạt gần như tất cả chức năng của Locket, tận hưởng đầy đủ chức năng
 
-**Những chức năng hoạt động**
+**Những chức năng hoạt động:**
 - 🚫Không quảng cáo
 - 🎥Quay video (5s)
 - ~~Huy hiệu Locket Gold~~
