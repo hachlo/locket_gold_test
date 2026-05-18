@@ -5,7 +5,6 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 **Những chức năng hoạt động:**
 - 🚫Không quảng cáo
 - 🎥Quay video (5s)
-- ~~Huy hiệu Locket Gold~~
 - Tùy chỉnh Camera theme
 - 🗨️Gửi nội dung Locket dài hơn
 - Tải ảnh từ thư viện
