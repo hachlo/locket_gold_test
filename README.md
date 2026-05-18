@@ -17,6 +17,6 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 
 (Yêu cầu phải có Shadowrocket, chỉ hỗ trợ trên iPhone)
 
-**Không khuyến khích dùng free, nếu bạn có tiền thì nên ủng hộ nhà phát hành bằng cách mua trực tiếp tại ứng dụng.**
+**🛑Không khuyến khích dùng free, nếu bạn có tiền thì nên ủng hộ nhà phát hành bằng cách mua trực tiếp tại ứng dụng.**
 
 💛 Locket Widget là sản phẩm của **Locket Labs, Inc.**
