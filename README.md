@@ -14,7 +14,7 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 - Tùy biến Widget
 
 **Những chức năng không còn hoạt động:**
-- Chức năng AI (Sự kiện)
+- AI filter (Sự kiện)
 - Huy hiệu Locket Gold _(đã bị Locket fix)_
 
 (Yêu cầu phải có Shadowrocket, chỉ hỗ trợ trên iPhone)
