@@ -22,3 +22,4 @@ Sử dụng phương thức kích hoạt **Scripts** qua Shadowrocket. Giúp b�
 **🛑Không khuyến khích dùng free, nếu bạn có tiền thì nên ủng hộ nhà phát hành bằng cách mua trực tiếp tại ứng dụng.**
 
 💛 Locket Widget là sản phẩm của **Locket Labs, Inc.**
+🐈 RevenueCat là sản phẩm của **RevenueCat, Inc.**
