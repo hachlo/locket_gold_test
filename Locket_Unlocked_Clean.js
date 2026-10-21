@@ -45,8 +45,7 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "test",
-                    body: "tson208",
-                    imageURL: "https://cdn.upanhlaylink.com/i/GSfYXmKd.png"
+                    body: "tson208"
                 }
             ],
             primary_button_title: "Ok!",
