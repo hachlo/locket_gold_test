@@ -199,7 +199,7 @@ if (ua.includes("Locket")) {
         time_travel_rewind_v2_enabled: "true",
         conversation_drafts_enabled: "true",
         calendar_delete_moment_enabled: "true",
-        calendar_rewind_enabled: "false",
+        calendar_rewind_enabled: "true",
         locket_yearbook_story_sharing_encouraged: "true",
         rollcall_enabled: "true",
         rollcall_comment_actions: "true",
