@@ -206,6 +206,7 @@ if (ua.includes("Locket")) {
         rollcall_profile_button: "true",
         rollcall_prompt_export_after_share: "true",
         rollcall_confirm_skip_tagging: "false",
+        rollcall_profile_memories_enabled: "true",
         rollcall_tap_to_tag_enabled: "false",
     });
 
