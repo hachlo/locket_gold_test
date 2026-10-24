@@ -98,7 +98,35 @@ if (ua.includes("Locket")) {
             catch_up: true,
             widget_looping_mode: "never"
         }),
-        camera_filter_config: "{\"picker_filters\":[\"looks_maxxing\",\"giraffe\",\"blonde_bleached\"],\"remote_filters\":[],\"promo\":{\"uid\":\"us_rollout\",\"title\":{\"en\":\"Add a Look\"}},\"sheet_filters\":[{\"title\":{\"en\":\"Goofy\"},\"filter_ids\":[\"okay_wig\",\"influencer\",\"looks_maxxing\",\"toothless\",\"bye_brows\"]},{\"title\":{\"en\":\"Looks\"},\"filter_ids\":[\"bowling_ball\",\"blonde_bleached\",\"beard\",\"bob_cut\",\"buns\",\"tatted\",\"mohawk\",\"braces\",\"bye_brows\"]},{\"title\":{\"en\":\"Celebrate\"},\"filter_ids\":[\"slimed\",\"princess\",\"disco_lights\",\"cash_money\",\"happy_birthday\"]},{\"title\":{\"en\":\"Cute\"},\"filter_ids\":[\"cutesy\",\"sticker_face\",\"flower_crown\",\"love_bug\"]},{\"title\":{\"en\":\"Costumes\"},\"filter_ids\":[\"wedding\",\"cowboy_cowgirl\",\"giraffe\",\"clown\"]},{\"title\":{\"en\":\"Holidays\"},\"filter_ids\":[\"easter_bunney_cutout\",\"easter_chick_cutout\",\"bearded\",\"leprechaun\",\"lucky_face\",\"sweet_hearts\",\"elf_cutout\",\"santa_cutout\",\"frosty\"]}],\"show_filter_button\":true,\"allows_custom_filters\":false,\"open_sheet_immediately\":true,\"sheet_enabled\":true}",
+        camera_filter_config: JSON.stringify({
+            allows_custom_filters: true,
+            allowsCustomFilters: true,
+            showFilterButton: true,
+            sheetEnabled: true,
+            openSheetImmediately: true,
+            reference_image_attachment_enabled: true,
+            referenceImageAttachmentEnabled: true,
+            show_filter_button: true,
+            sheet_enabled: true,
+            open_sheet_immediately: true,
+            sheet_filters: [
+                { title: { en: "Goofy" }, filter_ids: ["okay_wig", "influencer", "looks_maxxing", "toothless", "bye_brows"] },
+                { title: { en: "Looks" }, filter_ids: ["bowling_ball", "blonde_bleached", "beard", "bob_cut", "buns", "tatted", "mohawk", "braces", "bye_brows"] },
+                { title: { en: "Celebrate" }, filter_ids: ["slimed", "princess", "disco_lights", "cash_money", "happy_birthday"] },
+                { title: { en: "Cute" }, filter_ids: ["cutesy", "sticker_face", "flower_crown", "love_bug"] },
+                { title: { en: "Costumes" }, filter_ids: ["wedding", "cowboy_cowgirl", "giraffe", "clown"] },
+                { title: { en: "Holidays" }, filter_ids: ["easter_bunney_cutout", "easter_chick_cutout", "bearded", "leprechaun", "lucky_face", "sweet_hearts", "elf_cutout", "santa_cutout", "frosty"] }
+            ],
+            picker_filters: [
+                "okay_wig", "influencer", "looks_maxxing", "toothless", "bye_brows",
+                "bowling_ball", "blonde_bleached", "beard", "bob_cut", "buns",
+                "tatted", "mohawk", "braces", "slimed", "princess",
+                "disco_lights", "cash_money", "happy_birthday", "cutesy", "sticker_face",
+                "flower_crown", "love_bug", "wedding", "cowboy_cowgirl", "giraffe",
+                "clown", "easter_bunney_cutout", "easter_chick_cutout", "bearded", "leprechaun",
+                "lucky_face", "sweet_hearts", "elf_cutout", "santa_cutout", "frosty"
+            ]
+        }),
         camera_roll_preview_enabled: "true",
         camera_roll_video_enabled: "true",
         camera_roll_video_upload_enabled: "true",
@@ -171,6 +199,10 @@ if (ua.includes("Locket")) {
         hide_chat_button: "false",
         groups_enabled: "true",
         groups_feature_mode: "enabled",
+        camera_filter: "true",
+        camera_filters_enabled: "true",
+        camera_filter_enabled: "true",
+        camera_filter_sheet_enabled: "true",
         group_contact_invites_enabled: "true",
         groups_onboarding_accept_invite_preview_enabled: "true",
         chat_hyperlink_enabled_mode: "always_enabled",
@@ -626,6 +658,18 @@ if (ua.includes("Locket")) {
         calendar_rewind_enabled: "true",
         rollcall_profile_memories_enabled: "true",
         rollcall_memories_streaks_enabled: "true"
+    });
+
+    // Bật thêm các cờ ẩn (không gồm Gold/quảng cáo/QR-link)
+    Object.assign(obj.entries, {
+        streak_reminders: "true",
+        catch_up_show_nav_bar: "true",
+        pad_server_friend_suggestions: "true",
+        widget_last_sent_indicator: "true",
+        widget_stale_state_enabled: "true",
+        share_history_prompt_enabled: "true",
+        show_no_friends_bottom_sheet: "true",
+        share_history_config: JSON.stringify({ prompt_enabled: true, fetching_enabled: true })
     });
 }
 
