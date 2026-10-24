@@ -642,7 +642,6 @@ if (ua.includes("Locket")) {
         ])
     });
 
-    // Chia sẻ sinh nhật + Tua lại (Rewind) + Rollcall trong Memories (giá trị gốc từ RemoteConfig)
     Object.assign(obj.entries, {
         birthday_feature_config: "{\"profile_menu\":true,\"prompt_interval\":1209600,\"show_frame\":true}",
         calendar_friend_birthdays: "{\"fetching\":true,\"calendar_display\":true,\"feature_popup\":true,\"settings_visibility_toggle_enabled\":true,\"fetch_ttl_seconds\":86400}",
@@ -660,7 +659,6 @@ if (ua.includes("Locket")) {
         rollcall_memories_streaks_enabled: "true"
     });
 
-    // Bật thêm các cờ ẩn (không gồm Gold/quảng cáo/QR-link)
     Object.assign(obj.entries, {
         streak_reminders: "true",
         catch_up_show_nav_bar: "true",
